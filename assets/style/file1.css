@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+
+body{
+  font-family: 'Slabo 27px',serif;
+  font-size: 20px;
+  color: white;
+}
+
+.smallbox{
+  margin: 20px 30px;
+  padding: 20px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+#bluebox{
+  background-color: blue;
+}
+
+#redbox{
+  background-color: red;
+}
+
+#greenbox{
+  margin: 20px 30px;
+  border-radius: 15px;
+  width: 350px;
+  height: 350px;
+  background-color: green;
+  text-align: center;
+}
